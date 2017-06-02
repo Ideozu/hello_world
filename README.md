@@ -2,4 +2,4 @@
 github training
 
 
-Justin is a postdoc in HMG program at the Stanley Manne Childrens Research Institute
+Justin is a postdoc in Human Molecular Genetics program at the Stanley Manne Childrens Research Institute
